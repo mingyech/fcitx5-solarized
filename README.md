@@ -4,11 +4,13 @@
 
 ## Installation
 
-### Arch Linux
+### Packages
 
-Package avaliable on the [AUR](https://aur.archlinux.org/packages/fcitx5-solarized/): `fcitx5-solarized`
+Install from one of the following repositories:
 
-### Other
+[![Packaging status](https://repology.org/badge/vertical-allrepos/fcitx5-solarized.svg)](https://repology.org/project/fcitx5-solarized/versions)
+
+### From git
 
 ```sh
 git clone https://github.com/mingyech/fcitx5-solarized
